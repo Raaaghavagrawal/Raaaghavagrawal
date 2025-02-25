@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DSA with C++**
 
-- 🌱 I’m currently learning **C++,Pyhton,MYSQL,HTML,CSS,JS**
+- 🌱 I’m currently learning **C++,Pyhton,MYSQL,React,NodeJS,NextJS**
 
 - 📫 How to reach me **agrawalraghav747@gmail.com**
 
@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raaaghavagrawal&show_icons=true&locale=en&layout=compact" alt="raaaghavagrawal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raaaghavagrawal&show_icons=true&locale=en" alt="raaaghavagrawal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raaaghavagrawal&theme=dark" alt="raaaghavagrawal" /></p>
