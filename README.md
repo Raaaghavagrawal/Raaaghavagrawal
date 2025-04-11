@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DSA with C++**
 
-- 🌱 I’m currently learning **C++,Pyhton,MYSQL,React,NodeJS,NextJS**
+- 🌱 I’m currently learning **C++,Python,MYSQL,React,NodeJS,NextJS**
 
 - 📫 How to reach me **agrawalraghav747@gmail.com**
 
